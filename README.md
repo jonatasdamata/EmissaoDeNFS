@@ -78,6 +78,5 @@ Veja o arquivo de licença para mais detalhes.
 
 [LICENSE](https://github.com/jonatasdamata/EmissaoDeNFS/blob/main/LICENSE)
 
-## Agradecimentos
-Agradeço à Vanessa Arseli pela oportunidade de participar do processo seletivo para estágio em Desenvolvimento de Software na Saguitech. Estou empolgado com a possibilidade de fazer parte da equipe e contribuir com meu conhecimento.
+
 
